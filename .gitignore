@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 .git/
 
 venv/
 .venv/
 .DS_Store/
+=======
+.venv/
+>>>>>>> 0283938 (Lab1)
